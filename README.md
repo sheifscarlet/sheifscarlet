@@ -1,8 +1,8 @@
-### Hi 👋, I'm Artem  Bobrov.
+### Hi 👋, I'm Artem Bobrov, a Second year Student at the <a href="https://www.centennialcollege.ca/">Centennial College</a>
 [![Outlook Badge](https://img.shields.io/badge/-artBobr@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:artBobr@outlook.com)](mailto:artBobr@outlook.com)
 - 🎓 Currently studying <a href="https://www.centennialcollege.ca/programs-courses/full-time/game-programming/">Game Programming </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheifscarlet&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sheifscarlet&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sheifscarlet&theme=radical&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--
 **Sargerid/Sargerid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
