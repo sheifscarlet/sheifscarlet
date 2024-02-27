@@ -1,4 +1,4 @@
-### Hi 👋, I'm Stepan Susorov.
+### Hi 👋, I'm Artem  Bobrov.
 [![Outlook Badge](https://img.shields.io/badge/-artBobr@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:artBobr@outlook.com)](mailto:artBobr@outlook.com)
 - 🎓 Currently studying <a href="https://www.centennialcollege.ca/programs-courses/full-time/game-programming/">Game Programming </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheifscarlet&show_icons=true&theme=radical)
