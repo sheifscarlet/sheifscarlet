@@ -1,4 +1,4 @@
-### Hi , I'm Artem Bobrov, a Second year Student at the <a href="https://www.centennialcollege.ca/">Centennial College</a>
+### Hi , I'm Artem Bobrov, a Final year Student at the <a href="https://www.centennialcollege.ca/">Centennial College</a>
 [![Outlook Badge](https://img.shields.io/badge/-artBobr@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:artBobr@outlook.com)](mailto:artBobr@outlook.com)
 - 🎓 Currently studying <a href="https://www.centennialcollege.ca/programs-courses/full-time/game-programming/">Game Programming </a>
 
